@@ -13,5 +13,7 @@
     * Reference = Me
 4. [귀찮은케이](annoyingKay.md)
     * Reference = Me
-5. [가벼운-토크](small-talk-simulator.md)
+5. [케이공감봇](kayrapist.md)
+    * Reference = Me
+6. [가벼운-토크](small-talk-simulator.md)
     * Reference = [small-talk-simulator.md](https://github.com/AdmTal/chat-gpt-games/blob/main/games/small-talk-simulator.md)
