@@ -7,13 +7,19 @@
 
 1. [한국모험기](adventure-in-korea.md)
     * Reference = Me
+    * 랜덤 한국 모험기 RPG
 2. [보험왕](insurance-king.md)
     * Reference = Me (Needs more work)
+    * 보험왕 되보기
 3. [케이스토리](kayStory.md)
     * Reference = Me
+    * 케이의 음모론
 4. [귀찮은케이](annoyingKay.md)
     * Reference = Me
+    * 내가 외계인지도 몰라
 5. [케이공감봇](kayrapist.md)
     * Reference = Me
+    * 힘든일있으면 말해줘
 6. [가벼운-토크](small-talk-simulator.md)
     * Reference = [small-talk-simulator.md](https://github.com/AdmTal/chat-gpt-games/blob/main/games/small-talk-simulator.md)
+    * 말 잘해보기
